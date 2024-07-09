@@ -7,6 +7,9 @@
    id="svg429"
    sodipodi:docname="keyboard-layout-arabic-Layer01.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:export-filename="keyboard-layout-arabic-Layer01.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,15 +25,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.2677166"
-     inkscape:cx="384.54968"
-     inkscape:cy="37.863354"
+     inkscape:zoom="1.7928219"
+     inkscape:cx="327.97457"
+     inkscape:cy="185.18292"
      inkscape:window-width="1920"
      inkscape:window-height="915"
-     inkscape:window-x="112"
-     inkscape:window-y="97"
+     inkscape:window-x="48"
+     inkscape:window-y="83"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="layer3" />
   <style
      type="text/css"
      id="style1">
@@ -5832,13 +5835,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
-       x="741.23193"
-       y="290.54495"
+       x="748.90759"
+       y="285.22296"
        id="text574"><tspan
          sodipodi:role="line"
          id="tspan574"
-         x="741.23193"
-         y="290.54495">عالي</tspan></text>
+         x="748.90759"
+         y="285.22296">عـــالي</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
@@ -5878,7 +5881,7 @@
          sodipodi:role="line"
          id="tspan573"
          x="72.4412"
-         y="284.82333">عالي</tspan></text>
+         y="284.82333">عــالي</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
@@ -5892,13 +5895,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
-       x="183.42619"
-       y="342.5726"
+       x="183.36725"
+       y="339.44711"
        id="text578"><tspan
          sodipodi:role="line"
          id="tspan578"
-         x="183.42619"
-         y="342.5726">غير</tspan></text>
+         x="183.36725"
+         y="339.44711">غير</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;display:inline;fill:#000000"
@@ -5976,7 +5979,7 @@
          sodipodi:role="line"
          id="tspan20"
          x="973.86462"
-         y="184.68051">ادنئ</tspan></text>
+         y="184.68051">ادنى</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18.6667px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;display:inline;fill:#000000"
@@ -6137,12 +6140,12 @@
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
        x="690.08398"
-       y="52.152916"
+       y="50.7873"
        id="text73"><tspan
          sodipodi:role="line"
          id="tspan73"
          x="690.08398"
-         y="52.152916">10</tspan></text>
+         y="50.7873">10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
@@ -6166,13 +6169,13 @@
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
-       x="635.30835"
-       y="52.511505"
+       x="637.21533"
+       y="50.519188"
        id="text72"><tspan
          sodipodi:role="line"
          id="tspan72"
-         x="635.30835"
-         y="52.511505">9</tspan></text>
+         x="637.21533"
+         y="50.519188">9</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
@@ -6216,13 +6219,13 @@
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
-       x="446.20648"
-       y="52.064808"
+       x="446.44302"
+       y="50.926933"
        id="text69"><tspan
          sodipodi:role="line"
          id="tspan69"
-         x="446.20648"
-         y="52.064808">6</tspan></text>
+         x="446.44302"
+         y="50.926933">6</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
@@ -6256,13 +6259,13 @@
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
-       x="311.76117"
-       y="52.235062"
+       x="311.81918"
+       y="51.119503"
        id="text67"><tspan
          sodipodi:role="line"
          id="tspan67"
-         x="311.76117"
-         y="52.235062">4</tspan></text>
+         x="311.81918"
+         y="51.119503">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
@@ -6276,13 +6279,13 @@
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
-       x="259.34137"
-       y="52.440693"
+       x="259.49768"
+       y="50.983295"
        id="text66"><tspan
          sodipodi:role="line"
          id="tspan66"
-         x="259.34137"
-         y="52.440693">3</tspan></text>
+         x="259.49768"
+         y="50.983295">3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
@@ -6335,14 +6338,16 @@
          y="33.192074">كسر</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
-       x="42.337311"
-       y="47.335049"
-       id="text79"><tspan
+       style="font-size:14.3766px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.898537"
+       x="46.974377"
+       y="42.532272"
+       id="text79"
+       transform="scale(0.89853663,1.1129207)"><tspan
          sodipodi:role="line"
          id="tspan79"
-         x="42.337311"
-         y="47.335049">خروج</tspan></text>
+         x="46.974377"
+         y="42.532272"
+         style="stroke-width:0.898537">خروج</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-family:AlMohanad;-inkscape-font-specification:AlMohanad;text-align:center;text-anchor:middle;fill:#000000"
